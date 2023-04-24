@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+*{
+	margin:4px;
+}
+.container{
+	background-color:#f1f1f1;
+	padding:30px;
+	width:200px;
+}
+img{
+	width:100%;
+}
+button{
+	background-color:#fe625a;
+	color:white;
+	border-radius:10px;
+	border:0px;
+	font-size:20px;
+	padding:10px;
+}
